@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T13:53:35.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="tbC6p-SIsr8naa1HAC9P" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T13:54:56.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="2AYmzNs7HqIiNsnZERBi" version="14.7.1" type="github">
   <diagram id="guN0_ISp70PArXxdg8vb" name="Page-1">
     <mxGraphModel dx="354" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,14 @@
         <mxCell id="qPGTRNqkrpz23dsvWuwc-20" value="i &amp;gt; 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qPGTRNqkrpz23dsvWuwc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="qPGTRNqkrpz23dsvWuwc-21" target="qPGTRNqkrpz23dsvWuwc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qPGTRNqkrpz23dsvWuwc-21" value="Вывод sum(A[A.index(i):])" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="800" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qPGTRNqkrpz23dsvWuwc-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="880" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
