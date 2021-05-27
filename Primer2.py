@@ -16,7 +16,7 @@ if __name__ == '__main__':
     i_min = i_max = 0
     for i, item in enumerate(a):
         if item < a_min:
-            i_min, a_min = i,
+            i_min, a_min = i, item
         if item >= a_max:
             i_max, a_max = i, item
 

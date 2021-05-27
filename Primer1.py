@@ -17,3 +17,4 @@ for item in A:
         s += item
 
 print(s)
+
