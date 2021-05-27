@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T12:18:48.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="buJIVxsVe0Pz1Bw9N1nX" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T12:22:48.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="Rp7UYqOJi1QQrGHQUrEU" version="14.7.1" type="github">
   <diagram id="1G36SkYrBmARHfN4nVAl" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="269" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,30 @@
             <mxPoint x="80" y="520" as="sourcePoint" />
             <mxPoint x="360" y="519.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="stZG2l_DTAM-XmHHD5Aj-88" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="stZG2l_DTAM-XmHHD5Aj-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="80" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stZG2l_DTAM-XmHHD5Aj-90" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="stZG2l_DTAM-XmHHD5Aj-91" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="920" as="sourcePoint" />
+            <mxPoint x="240" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stZG2l_DTAM-XmHHD5Aj-93" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="920" as="sourcePoint" />
+            <mxPoint x="240" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stZG2l_DTAM-XmHHD5Aj-94" value="i_min, i_max = i_max, item" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="960" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
